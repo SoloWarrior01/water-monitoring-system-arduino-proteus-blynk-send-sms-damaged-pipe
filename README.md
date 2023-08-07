@@ -7,7 +7,8 @@ It checks the pipe's water flow rate, pressure of water, pH value as well as tem
 ## Arduino Components Used
 None as it is software based simulation and the libraries of these components can be downloaded from the web or found in the proteus device library.
 ```
-Arduino Mega 2560, COMPIM, SIM900D, 16x2 LCD Display, GPS Module, PH Sensor, Water Flow Sensor, LM35, LM044L, POT-HG, MPX4115, Motors and L298N Motor Driver, Capacitors, Inductors
+Arduino Mega 2560, COMPIM, SIM900D, 16x2 LCD Display, GPS Module, PH Sensor, Water Flow Sensor,
+LM35, LM044L, POT-HG, MPX4115, Motors and L298N Motor Driver, Capacitors, Inductors
 ```
 ## Screenshots
 
