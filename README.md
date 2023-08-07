@@ -11,4 +11,4 @@ Arduino Mega 2560, COMPIM, SIM900D, 16x2 LCD Display, GPS Module, PH Sensor, Wat
 ```
 ## Screenshots
 
-<img src="circuit-proteus.jpg">
+<img src="circuit-proteus.png">
